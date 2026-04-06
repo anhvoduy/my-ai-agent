@@ -1,4 +1,4 @@
-- react-native: app-inventory
+- react-native: iYoutube
 - copyright: 2018
 - author: voduyanh
 - node version: 10.15.0
