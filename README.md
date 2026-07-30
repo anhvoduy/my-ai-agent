@@ -1,4 +1,4 @@
 - react-native: iYoutube
 - copyright: 2018
-- author: voduyanh
+- author: devinsg
 - node version: 10.15.0
